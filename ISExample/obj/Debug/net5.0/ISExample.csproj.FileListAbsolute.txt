@@ -1,0 +1,128 @@
+E:\Yogesh\SEO\Yogihosting\new\IdentityServer Setup\ISExample\bin\Debug\net5.0\appsettings.Development.json
+E:\Yogesh\SEO\Yogihosting\new\IdentityServer Setup\ISExample\bin\Debug\net5.0\appsettings.json
+E:\Yogesh\SEO\Yogihosting\new\IdentityServer Setup\ISExample\bin\Debug\net5.0\ISExample.exe
+E:\Yogesh\SEO\Yogihosting\new\IdentityServer Setup\ISExample\bin\Debug\net5.0\ISExample.deps.json
+E:\Yogesh\SEO\Yogihosting\new\IdentityServer Setup\ISExample\bin\Debug\net5.0\ISExample.runtimeconfig.json
+E:\Yogesh\SEO\Yogihosting\new\IdentityServer Setup\ISExample\bin\Debug\net5.0\ISExample.runtimeconfig.dev.json
+E:\Yogesh\SEO\Yogihosting\new\IdentityServer Setup\ISExample\bin\Debug\net5.0\ISExample.dll
+E:\Yogesh\SEO\Yogihosting\new\IdentityServer Setup\ISExample\bin\Debug\net5.0\ref\ISExample.dll
+E:\Yogesh\SEO\Yogihosting\new\IdentityServer Setup\ISExample\bin\Debug\net5.0\ISExample.pdb
+E:\Yogesh\SEO\Yogihosting\new\IdentityServer Setup\ISExample\bin\Debug\net5.0\ISExample.Views.dll
+E:\Yogesh\SEO\Yogihosting\new\IdentityServer Setup\ISExample\bin\Debug\net5.0\ISExample.Views.pdb
+E:\Yogesh\SEO\Yogihosting\new\IdentityServer Setup\ISExample\bin\Debug\net5.0\AspNetCore.Identity.MongoDbCore.dll
+E:\Yogesh\SEO\Yogihosting\new\IdentityServer Setup\ISExample\bin\Debug\net5.0\DnsClient.dll
+E:\Yogesh\SEO\Yogihosting\new\IdentityServer Setup\ISExample\bin\Debug\net5.0\IdentityModel.dll
+E:\Yogesh\SEO\Yogihosting\new\IdentityServer Setup\ISExample\bin\Debug\net5.0\IdentityServer4.dll
+E:\Yogesh\SEO\Yogihosting\new\IdentityServer Setup\ISExample\bin\Debug\net5.0\IdentityServer4.AspNetIdentity.dll
+E:\Yogesh\SEO\Yogihosting\new\IdentityServer Setup\ISExample\bin\Debug\net5.0\IdentityServer4.Storage.dll
+E:\Yogesh\SEO\Yogihosting\new\IdentityServer Setup\ISExample\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+E:\Yogesh\SEO\Yogihosting\new\IdentityServer Setup\ISExample\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Yogesh\SEO\Yogihosting\new\IdentityServer Setup\ISExample\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\Yogesh\SEO\Yogihosting\new\IdentityServer Setup\ISExample\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\Yogesh\SEO\Yogihosting\new\IdentityServer Setup\ISExample\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Yogesh\SEO\Yogihosting\new\IdentityServer Setup\ISExample\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\Yogesh\SEO\Yogihosting\new\IdentityServer Setup\ISExample\bin\Debug\net5.0\MongoDB.Bson.dll
+E:\Yogesh\SEO\Yogihosting\new\IdentityServer Setup\ISExample\bin\Debug\net5.0\MongoDB.Driver.dll
+E:\Yogesh\SEO\Yogihosting\new\IdentityServer Setup\ISExample\bin\Debug\net5.0\MongoDB.Driver.Core.dll
+E:\Yogesh\SEO\Yogihosting\new\IdentityServer Setup\ISExample\bin\Debug\net5.0\MongoDbGenericRepository.dll
+E:\Yogesh\SEO\Yogihosting\new\IdentityServer Setup\ISExample\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\Yogesh\SEO\Yogihosting\new\IdentityServer Setup\ISExample\bin\Debug\net5.0\SharpCompress.dll
+E:\Yogesh\SEO\Yogihosting\new\IdentityServer Setup\ISExample\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Yogesh\SEO\Yogihosting\new\IdentityServer Setup\ISExample\obj\Debug\net5.0\ISExample.csprojAssemblyReference.cache
+E:\Yogesh\SEO\Yogihosting\new\IdentityServer Setup\ISExample\obj\Debug\net5.0\ISExample.GeneratedMSBuildEditorConfig.editorconfig
+E:\Yogesh\SEO\Yogihosting\new\IdentityServer Setup\ISExample\obj\Debug\net5.0\ISExample.AssemblyInfoInputs.cache
+E:\Yogesh\SEO\Yogihosting\new\IdentityServer Setup\ISExample\obj\Debug\net5.0\ISExample.AssemblyInfo.cs
+E:\Yogesh\SEO\Yogihosting\new\IdentityServer Setup\ISExample\obj\Debug\net5.0\ISExample.csproj.CoreCompileInputs.cache
+E:\Yogesh\SEO\Yogihosting\new\IdentityServer Setup\ISExample\obj\Debug\net5.0\ISExample.MvcApplicationPartsAssemblyInfo.cache
+E:\Yogesh\SEO\Yogihosting\new\IdentityServer Setup\ISExample\obj\Debug\net5.0\ISExample.RazorAssemblyInfo.cache
+E:\Yogesh\SEO\Yogihosting\new\IdentityServer Setup\ISExample\obj\Debug\net5.0\ISExample.RazorAssemblyInfo.cs
+E:\Yogesh\SEO\Yogihosting\new\IdentityServer Setup\ISExample\obj\Debug\net5.0\staticwebassets\ISExample.StaticWebAssets.Manifest.cache
+E:\Yogesh\SEO\Yogihosting\new\IdentityServer Setup\ISExample\obj\Debug\net5.0\staticwebassets\ISExample.StaticWebAssets.xml
+E:\Yogesh\SEO\Yogihosting\new\IdentityServer Setup\ISExample\obj\Debug\net5.0\scopedcss\bundle\ISExample.styles.css
+E:\Yogesh\SEO\Yogihosting\new\IdentityServer Setup\ISExample\obj\Debug\net5.0\ISExample.TagHelpers.input.cache
+E:\Yogesh\SEO\Yogihosting\new\IdentityServer Setup\ISExample\obj\Debug\net5.0\ISExample.TagHelpers.output.cache
+E:\Yogesh\SEO\Yogihosting\new\IdentityServer Setup\ISExample\obj\Debug\net5.0\ISExample.RazorCoreGenerate.cache
+E:\Yogesh\SEO\Yogihosting\new\IdentityServer Setup\ISExample\obj\Debug\net5.0\Razor\Views\Account\Login.cshtml.g.cs
+E:\Yogesh\SEO\Yogihosting\new\IdentityServer Setup\ISExample\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+E:\Yogesh\SEO\Yogihosting\new\IdentityServer Setup\ISExample\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+E:\Yogesh\SEO\Yogihosting\new\IdentityServer Setup\ISExample\obj\Debug\net5.0\Razor\Views\Operations\Create.cshtml.g.cs
+E:\Yogesh\SEO\Yogihosting\new\IdentityServer Setup\ISExample\obj\Debug\net5.0\Razor\Views\Operations\CreateRole.cshtml.g.cs
+E:\Yogesh\SEO\Yogihosting\new\IdentityServer Setup\ISExample\obj\Debug\net5.0\Razor\Views\Secured\Index.cshtml.g.cs
+E:\Yogesh\SEO\Yogihosting\new\IdentityServer Setup\ISExample\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+E:\Yogesh\SEO\Yogihosting\new\IdentityServer Setup\ISExample\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\Yogesh\SEO\Yogihosting\new\IdentityServer Setup\ISExample\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\Yogesh\SEO\Yogihosting\new\IdentityServer Setup\ISExample\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+E:\Yogesh\SEO\Yogihosting\new\IdentityServer Setup\ISExample\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+E:\Yogesh\SEO\Yogihosting\new\IdentityServer Setup\ISExample\obj\Debug\net5.0\ISExample.RazorTargetAssemblyInfo.cache
+E:\Yogesh\SEO\Yogihosting\new\IdentityServer Setup\ISExample\obj\Debug\net5.0\ISExample.RazorTargetAssemblyInfo.cs
+E:\Yogesh\SEO\Yogihosting\new\IdentityServer Setup\ISExample\obj\Debug\net5.0\ISExample.Views.pdb
+E:\Yogesh\SEO\Yogihosting\new\IdentityServer Setup\ISExample\obj\Debug\net5.0\ISExample.csproj.CopyComplete
+E:\Yogesh\SEO\Yogihosting\new\IdentityServer Setup\ISExample\obj\Debug\net5.0\ISExample.dll
+E:\Yogesh\SEO\Yogihosting\new\IdentityServer Setup\ISExample\obj\Debug\net5.0\ref\ISExample.dll
+E:\Yogesh\SEO\Yogihosting\new\IdentityServer Setup\ISExample\obj\Debug\net5.0\ISExample.pdb
+E:\Yogesh\SEO\Yogihosting\new\IdentityServer Setup\ISExample\obj\Debug\net5.0\ISExample.genruntimeconfig.cache
+E:\Yogesh\SEO\Yogihosting\new\IdentityServer Setup\ISExample\bin\Debug\net5.0\libman.json
+C:\1\ISExample\bin\Debug\net5.0\appsettings.Development.json
+C:\1\ISExample\bin\Debug\net5.0\appsettings.json
+C:\1\ISExample\bin\Debug\net5.0\libman.json
+C:\1\ISExample\bin\Debug\net5.0\ISExample.exe
+C:\1\ISExample\bin\Debug\net5.0\ISExample.deps.json
+C:\1\ISExample\bin\Debug\net5.0\ISExample.runtimeconfig.json
+C:\1\ISExample\bin\Debug\net5.0\ISExample.runtimeconfig.dev.json
+C:\1\ISExample\bin\Debug\net5.0\ISExample.dll
+C:\1\ISExample\bin\Debug\net5.0\ref\ISExample.dll
+C:\1\ISExample\bin\Debug\net5.0\ISExample.pdb
+C:\1\ISExample\bin\Debug\net5.0\ISExample.Views.dll
+C:\1\ISExample\bin\Debug\net5.0\ISExample.Views.pdb
+C:\1\ISExample\bin\Debug\net5.0\AspNetCore.Identity.MongoDbCore.dll
+C:\1\ISExample\bin\Debug\net5.0\DnsClient.dll
+C:\1\ISExample\bin\Debug\net5.0\IdentityModel.dll
+C:\1\ISExample\bin\Debug\net5.0\IdentityServer4.dll
+C:\1\ISExample\bin\Debug\net5.0\IdentityServer4.AspNetIdentity.dll
+C:\1\ISExample\bin\Debug\net5.0\IdentityServer4.Storage.dll
+C:\1\ISExample\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:\1\ISExample\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\1\ISExample\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\1\ISExample\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\1\ISExample\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\1\ISExample\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\1\ISExample\bin\Debug\net5.0\MongoDB.Bson.dll
+C:\1\ISExample\bin\Debug\net5.0\MongoDB.Driver.dll
+C:\1\ISExample\bin\Debug\net5.0\MongoDB.Driver.Core.dll
+C:\1\ISExample\bin\Debug\net5.0\MongoDbGenericRepository.dll
+C:\1\ISExample\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\1\ISExample\bin\Debug\net5.0\SharpCompress.dll
+C:\1\ISExample\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\1\ISExample\obj\Debug\net5.0\ISExample.csprojAssemblyReference.cache
+C:\1\ISExample\obj\Debug\net5.0\ISExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\1\ISExample\obj\Debug\net5.0\ISExample.AssemblyInfoInputs.cache
+C:\1\ISExample\obj\Debug\net5.0\ISExample.AssemblyInfo.cs
+C:\1\ISExample\obj\Debug\net5.0\ISExample.csproj.CoreCompileInputs.cache
+C:\1\ISExample\obj\Debug\net5.0\ISExample.MvcApplicationPartsAssemblyInfo.cache
+C:\1\ISExample\obj\Debug\net5.0\ISExample.RazorAssemblyInfo.cache
+C:\1\ISExample\obj\Debug\net5.0\ISExample.RazorAssemblyInfo.cs
+C:\1\ISExample\obj\Debug\net5.0\staticwebassets\ISExample.StaticWebAssets.Manifest.cache
+C:\1\ISExample\obj\Debug\net5.0\staticwebassets\ISExample.StaticWebAssets.xml
+C:\1\ISExample\obj\Debug\net5.0\scopedcss\bundle\ISExample.styles.css
+C:\1\ISExample\obj\Debug\net5.0\ISExample.TagHelpers.input.cache
+C:\1\ISExample\obj\Debug\net5.0\ISExample.TagHelpers.output.cache
+C:\1\ISExample\obj\Debug\net5.0\ISExample.RazorCoreGenerate.cache
+C:\1\ISExample\obj\Debug\net5.0\Razor\Views\Account\Login.cshtml.g.cs
+C:\1\ISExample\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\1\ISExample\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\1\ISExample\obj\Debug\net5.0\Razor\Views\Operations\Create.cshtml.g.cs
+C:\1\ISExample\obj\Debug\net5.0\Razor\Views\Operations\CreateRole.cshtml.g.cs
+C:\1\ISExample\obj\Debug\net5.0\Razor\Views\Secured\Index.cshtml.g.cs
+C:\1\ISExample\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\1\ISExample\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\1\ISExample\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\1\ISExample\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\1\ISExample\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\1\ISExample\obj\Debug\net5.0\ISExample.RazorTargetAssemblyInfo.cache
+C:\1\ISExample\obj\Debug\net5.0\ISExample.RazorTargetAssemblyInfo.cs
+C:\1\ISExample\obj\Debug\net5.0\ISExample.Views.pdb
+C:\1\ISExample\obj\Debug\net5.0\ISExample.csproj.CopyComplete
+C:\1\ISExample\obj\Debug\net5.0\ISExample.dll
+C:\1\ISExample\obj\Debug\net5.0\ref\ISExample.dll
+C:\1\ISExample\obj\Debug\net5.0\ISExample.pdb
+C:\1\ISExample\obj\Debug\net5.0\ISExample.genruntimeconfig.cache
