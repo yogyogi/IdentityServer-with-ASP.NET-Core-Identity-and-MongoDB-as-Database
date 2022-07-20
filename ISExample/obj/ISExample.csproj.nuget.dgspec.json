@@ -1,33 +1,32 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Yogesh\\SEO\\Yogihosting\\new\\IdentityServer Setup\\ISExample\\ISExample.csproj": {}
+    "C:\\Users\\duong\\source\\repos\\.learn\\IdentityServer\\ISExample\\ISExample.csproj": {}
   },
   "projects": {
-    "E:\\Yogesh\\SEO\\Yogihosting\\new\\IdentityServer Setup\\ISExample\\ISExample.csproj": {
+    "C:\\Users\\duong\\source\\repos\\.learn\\IdentityServer\\ISExample\\ISExample.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Yogesh\\SEO\\Yogihosting\\new\\IdentityServer Setup\\ISExample\\ISExample.csproj",
+        "projectUniqueName": "C:\\Users\\duong\\source\\repos\\.learn\\IdentityServer\\ISExample\\ISExample.csproj",
         "projectName": "ISExample",
-        "projectPath": "E:\\Yogesh\\SEO\\Yogihosting\\new\\IdentityServer Setup\\ISExample\\ISExample.csproj",
-        "packagesPath": "C:\\Users\\Avita\\.nuget\\packages\\",
-        "outputPath": "E:\\Yogesh\\SEO\\Yogihosting\\new\\IdentityServer Setup\\ISExample\\obj\\",
+        "projectPath": "C:\\Users\\duong\\source\\repos\\.learn\\IdentityServer\\ISExample\\ISExample.csproj",
+        "packagesPath": "C:\\Users\\duong\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\duong\\source\\repos\\.learn\\IdentityServer\\ISExample\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Avita\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\duong\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net5.0"
+          "net6.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "D:\\commonpackage": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net5.0": {
-            "targetAlias": "net5.0",
+          "net6.0": {
+            "targetAlias": "net6.0",
             "projectReferences": {}
           }
         },
@@ -38,8 +37,8 @@
         }
       },
       "frameworks": {
-        "net5.0": {
-          "targetAlias": "net5.0",
+        "net6.0": {
+          "targetAlias": "net6.0",
           "dependencies": {
             "AspNetCore.Identity.MongoDbCore": {
               "target": "Package",
@@ -72,7 +71,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     }
