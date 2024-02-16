@@ -1,0 +1,17 @@
+﻿@model string
+
+<h1 class="bg-info text-white">Create a Role</h1>
+<div asp-validation-summary="All" class="text-danger"></div>
+
+@if (ViewBag.Message != null)
+{
+    <div class="p-1 mb-2 bg-success text-white">@ViewBag.Message</div>
+}
+
+<form asp-action="CreateRole" method="post">
+    <div class="form-group">
+        <label for="name">Name:</label>
+        <input name="name" class="form-control" />
+    </div>
+    <button type="submit" class="btn btn-primary">Create</button>
+</form>
