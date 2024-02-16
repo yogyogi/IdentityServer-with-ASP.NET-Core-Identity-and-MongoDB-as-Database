@@ -25,7 +25,7 @@ There are 2 projects: - `ISExample` & `ISClient`. ISExample is the Identity Serv
 
 `Running "ISClient"` - Run the project on https kestrel hosting and not IIS Express. Now click "Secured" menu link. You will be redirected to Identity Server asking to log on. Log on with your account. Next you will be redirected to client project and you will see secured weather data.
 
-Note - If you want to test login then you have to delete all the cookies from the "Application" tab of developers tools of your browser.
+Note - If you want to test login again then you have to delete all the cookies from the "Application" tab of developers tools of your browser.
 
 ## Want to support me ?
 
