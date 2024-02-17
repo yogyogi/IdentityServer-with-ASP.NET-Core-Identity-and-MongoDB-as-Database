@@ -17,6 +17,11 @@ In this repo we will implement IdentityServer with ASP.NET Core Identity and Mon
 13. Fetching IdentityServer Token from Postman
 14. Implementing OpenID Connect
 15. Calling IdentityServer secured Web API
+16. IdentityServer Role Based Authentication
+17. Role Claim in OpenID Connect
+18. Role claims in the ClaimsPrincipal
+19. Securing Controllers with Role Based Authentication
+20. IdentityServer Policy Based Authentication
 
 ## Running the projects
 There are 2 projects: - `ISExample` & `ISClient`. ISExample is the Identity Server. ISClient is the client that contains secured web api.
