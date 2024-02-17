@@ -18,6 +18,10 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = E:\Yogesh\SEO\Yogihosting\codes-new\IdenttiyServer\ISClient\ISClient
 build_property._RazorSourceGeneratorDebug = 
 
+[E:/Yogesh/SEO/Yogihosting/codes-new/IdenttiyServer/ISClient/ISClient/Views/CallApi/Claims.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FsbEFwaVxDbGFpbXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [E:/Yogesh/SEO/Yogihosting/codes-new/IdenttiyServer/ISClient/ISClient/Views/CallApi/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FsbEFwaVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 

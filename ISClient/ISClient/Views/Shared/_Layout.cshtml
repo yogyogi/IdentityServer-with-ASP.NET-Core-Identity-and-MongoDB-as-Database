@@ -28,6 +28,25 @@
                         <li class="nav-item">
                             <a class="nav-link text-dark" asp-area="" asp-controller="CallApi" asp-action="Index">Secured</a>
                         </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" target="_blank" asp-area="" asp-controller="CallApi" asp-action="Claims">Claims</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" target="_blank" asp-area="" asp-controller="Bank">Bank</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" target="_blank" asp-area="" asp-controller="Bank" asp-action="6B29FC40-CA47-1067-B31D-00DD010662DA">Read Customer Info</a>
+                        </li>
+                        @* @{
+                            if (User?.Identity?.IsAuthenticated ?? false)
+                            {
+                                <li class="nav-item">
+                                    <u>Welcome: @User.Identity.Name</u>
+                                    <a asp-controller="Account" asp-action="Logout" class="btn btn-danger">Logout</a>
+                                </li>
+
+                            }
+                        } *@
                     </ul>
                 </div>
             </div>

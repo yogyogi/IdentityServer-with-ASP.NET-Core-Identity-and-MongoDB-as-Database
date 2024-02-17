@@ -30,5 +30,10 @@ namespace ISClient.Controllers
             }
             return View(weather);
         }
+
+        public IActionResult Claims()
+        {
+            return View();
+        }
     }
 }

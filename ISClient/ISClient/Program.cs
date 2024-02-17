@@ -1,3 +1,4 @@
+using Microsoft.AspNetCore.Authentication;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 var builder = WebApplication.CreateBuilder(args);
 
@@ -28,8 +29,20 @@ builder.Services.AddAuthentication(options =>
         options.Scope.Add("openid");
         options.Scope.Add("profile");
         options.Scope.Add("fullaccess");
+        options.Scope.Add("roles");
+        options.ClaimActions.MapUniqueJsonKey("role", "role");
         options.SaveTokens = true;
     });
+
+builder.Services.AddAuthorization(opts =>
+{
+    opts.AddPolicy("Deactivate", policy =>
+    {
+        policy.RequireRole("Admin Manager");
+        policy.RequireAuthenticatedUser();
+        policy.RequireClaim("email");
+    });
+});
 
 // Add services to the container.
 
