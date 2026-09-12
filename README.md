@@ -1,8 +1,8 @@
 # IdentityServer with ASP.NET Core Identity and MongoDB as Database
-In this repo we will implement IdentityServer with ASP.NET Core Identity and MongoDB as Database. So, the MongoDB will be the Identity Database instead of SQL Server. I have explained all the setup steps <a href="https://www.yogihosting.com/identityserver-aspnet-core-identity-mongodb-database/" target="_blank">on my tutorial</a>. This tutorial contains the following topics.
+In this repo we will implement Duende IdentityServer with ASP.NET Core Identity and MongoDB as Database. So, the MongoDB will be the Identity Database instead of SQL Server. I have explained all the setup steps <a href="https://www.yogihosting.com/identityserver-aspnet-core-identity-mongodb-database/" target="_blank">on my tutorial</a>. This tutorial contains the following topics.
 
 ## Topics
-1. What is IdentityServer
+1. What is Duende IdentityServer
 2. What we will build?
 3. IdentityServer OpenID Connect OAuth 2.0
 4. Creating IdentityServer 4 Project
@@ -24,9 +24,9 @@ In this repo we will implement IdentityServer with ASP.NET Core Identity and Mon
 20. IdentityServer Policy Based Authentication
 
 ## Running the projects
-There are 2 projects: - `ISExample` & `ISClient`. ISExample is the Identity Server. ISClient is the client that contains secured web api.
+There are 2 projects: - `ISExample` & `ISClient`. ISExample is the Duende Identity Server. ISClient is the client that contains secured web api.
 
-`Running "ISExample"` - Inside the ISExample project their is `docker-compose.yml` for MongoDB. Run it with `docker-compose up -d` to start the container. Now run "ISExample" on IIS Express. Now create user account with the "Create Identity User" link on the Menu. It's url is - `https://localhost:44312/Operations/Create`. If you want to go to details about MongoDB and Identity setup then visit <a href="https://www.yogihosting.com/aspnet-core-identity-mongodb/">ASP.NET Core Identity with MongoDB as Database/</a>.
+`Running "ISExample"` - Inside the ISExample project their is `docker-compose.yml` for MongoDB. Run it with `docker-compose up -d` to start the container. Now run "ISExample" on IIS Express. Now create user account with the "Create Identity User" link on the Menu. It's url is - `https://localhost:5001/Operations/Create`. If you want to go to details about MongoDB and Identity setup then visit <a href="https://www.yogihosting.com/aspnet-core-identity-mongodb/">ASP.NET Core Identity with MongoDB as Database/</a>.
 
 `Running "ISClient"` - Run the project on https kestrel hosting and not IIS Express. Now click "Secured" menu link. You will be redirected to Identity Server asking to log on. Log on with your account. Next you will be redirected to client project and you will see secured weather data.
 
