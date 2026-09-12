@@ -5,7 +5,7 @@ var builder = WebApplication.CreateBuilder(args);
 /*builder.Services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme)
     .AddJwtBearer(options =>
     {
-        options.Authority = "https://localhost:44312";
+        options.Authority = "https://localhost:5001";
         options.Audience = "IS4API";
     });*/
 
@@ -18,12 +18,12 @@ builder.Services.AddAuthentication(options =>
     .AddCookie("Cookies")
     .AddJwtBearer(options =>
     {
-        options.Authority = "https://localhost:44312";
+        options.Authority = "https://localhost:5001";
         options.Audience = "IS4API";
     })
     .AddOpenIdConnect("oidc", options =>
     {
-        options.Authority = "https://localhost:44312";
+        options.Authority = "https://localhost:5001";
         options.ClientId = "zorro";
         options.ResponseType = "code";
         options.Scope.Add("openid");

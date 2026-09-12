@@ -1,0 +1,244 @@
+D:\Yogesh\SEO\Yogihosting\new\New folder\IdentityServer-with-ASP.NET-Core-Identity-and-MongoDB-as-Database-main\ISExample\ISExample\bin\Debug\net10.0\appsettings.Development.json
+D:\Yogesh\SEO\Yogihosting\new\New folder\IdentityServer-with-ASP.NET-Core-Identity-and-MongoDB-as-Database-main\ISExample\ISExample\bin\Debug\net10.0\appsettings.json
+D:\Yogesh\SEO\Yogihosting\new\New folder\IdentityServer-with-ASP.NET-Core-Identity-and-MongoDB-as-Database-main\ISExample\ISExample\bin\Debug\net10.0\ISExample.staticwebassets.runtime.json
+D:\Yogesh\SEO\Yogihosting\new\New folder\IdentityServer-with-ASP.NET-Core-Identity-and-MongoDB-as-Database-main\ISExample\ISExample\bin\Debug\net10.0\ISExample.staticwebassets.endpoints.json
+D:\Yogesh\SEO\Yogihosting\new\New folder\IdentityServer-with-ASP.NET-Core-Identity-and-MongoDB-as-Database-main\ISExample\ISExample\bin\Debug\net10.0\ISExample.exe
+D:\Yogesh\SEO\Yogihosting\new\New folder\IdentityServer-with-ASP.NET-Core-Identity-and-MongoDB-as-Database-main\ISExample\ISExample\bin\Debug\net10.0\ISExample.deps.json
+D:\Yogesh\SEO\Yogihosting\new\New folder\IdentityServer-with-ASP.NET-Core-Identity-and-MongoDB-as-Database-main\ISExample\ISExample\bin\Debug\net10.0\ISExample.runtimeconfig.json
+D:\Yogesh\SEO\Yogihosting\new\New folder\IdentityServer-with-ASP.NET-Core-Identity-and-MongoDB-as-Database-main\ISExample\ISExample\bin\Debug\net10.0\ISExample.dll
+D:\Yogesh\SEO\Yogihosting\new\New folder\IdentityServer-with-ASP.NET-Core-Identity-and-MongoDB-as-Database-main\ISExample\ISExample\bin\Debug\net10.0\ISExample.pdb
+D:\Yogesh\SEO\Yogihosting\new\New folder\IdentityServer-with-ASP.NET-Core-Identity-and-MongoDB-as-Database-main\ISExample\ISExample\bin\Debug\net10.0\AspNetCore.Identity.MongoDbCore.dll
+D:\Yogesh\SEO\Yogihosting\new\New folder\IdentityServer-with-ASP.NET-Core-Identity-and-MongoDB-as-Database-main\ISExample\ISExample\bin\Debug\net10.0\DnsClient.dll
+D:\Yogesh\SEO\Yogihosting\new\New folder\IdentityServer-with-ASP.NET-Core-Identity-and-MongoDB-as-Database-main\ISExample\ISExample\bin\Debug\net10.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+D:\Yogesh\SEO\Yogihosting\new\New folder\IdentityServer-with-ASP.NET-Core-Identity-and-MongoDB-as-Database-main\ISExample\ISExample\bin\Debug\net10.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Yogesh\SEO\Yogihosting\new\New folder\IdentityServer-with-ASP.NET-Core-Identity-and-MongoDB-as-Database-main\ISExample\ISExample\bin\Debug\net10.0\Microsoft.IdentityModel.Logging.dll
+D:\Yogesh\SEO\Yogihosting\new\New folder\IdentityServer-with-ASP.NET-Core-Identity-and-MongoDB-as-Database-main\ISExample\ISExample\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.dll
+D:\Yogesh\SEO\Yogihosting\new\New folder\IdentityServer-with-ASP.NET-Core-Identity-and-MongoDB-as-Database-main\ISExample\ISExample\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Yogesh\SEO\Yogihosting\new\New folder\IdentityServer-with-ASP.NET-Core-Identity-and-MongoDB-as-Database-main\ISExample\ISExample\bin\Debug\net10.0\Microsoft.IdentityModel.Tokens.dll
+D:\Yogesh\SEO\Yogihosting\new\New folder\IdentityServer-with-ASP.NET-Core-Identity-and-MongoDB-as-Database-main\ISExample\ISExample\bin\Debug\net10.0\MongoDB.Bson.dll
+D:\Yogesh\SEO\Yogihosting\new\New folder\IdentityServer-with-ASP.NET-Core-Identity-and-MongoDB-as-Database-main\ISExample\ISExample\bin\Debug\net10.0\MongoDB.Driver.dll
+D:\Yogesh\SEO\Yogihosting\new\New folder\IdentityServer-with-ASP.NET-Core-Identity-and-MongoDB-as-Database-main\ISExample\ISExample\bin\Debug\net10.0\MongoDbGenericRepository.dll
+D:\Yogesh\SEO\Yogihosting\new\New folder\IdentityServer-with-ASP.NET-Core-Identity-and-MongoDB-as-Database-main\ISExample\ISExample\bin\Debug\net10.0\SharpCompress.dll
+D:\Yogesh\SEO\Yogihosting\new\New folder\IdentityServer-with-ASP.NET-Core-Identity-and-MongoDB-as-Database-main\ISExample\ISExample\bin\Debug\net10.0\Snappier.dll
+D:\Yogesh\SEO\Yogihosting\new\New folder\IdentityServer-with-ASP.NET-Core-Identity-and-MongoDB-as-Database-main\ISExample\ISExample\bin\Debug\net10.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Yogesh\SEO\Yogihosting\new\New folder\IdentityServer-with-ASP.NET-Core-Identity-and-MongoDB-as-Database-main\ISExample\ISExample\bin\Debug\net10.0\ZstdSharp.dll
+D:\Yogesh\SEO\Yogihosting\new\New folder\IdentityServer-with-ASP.NET-Core-Identity-and-MongoDB-as-Database-main\ISExample\ISExample\obj\Debug\net10.0\ISExample.csproj.AssemblyReference.cache
+D:\Yogesh\SEO\Yogihosting\new\New folder\IdentityServer-with-ASP.NET-Core-Identity-and-MongoDB-as-Database-main\ISExample\ISExample\obj\Debug\net10.0\rpswa.dswa.cache.json
+D:\Yogesh\SEO\Yogihosting\new\New folder\IdentityServer-with-ASP.NET-Core-Identity-and-MongoDB-as-Database-main\ISExample\ISExample\obj\Debug\net10.0\ISExample.GeneratedMSBuildEditorConfig.editorconfig
+D:\Yogesh\SEO\Yogihosting\new\New folder\IdentityServer-with-ASP.NET-Core-Identity-and-MongoDB-as-Database-main\ISExample\ISExample\obj\Debug\net10.0\ISExample.AssemblyInfoInputs.cache
+D:\Yogesh\SEO\Yogihosting\new\New folder\IdentityServer-with-ASP.NET-Core-Identity-and-MongoDB-as-Database-main\ISExample\ISExample\obj\Debug\net10.0\ISExample.AssemblyInfo.cs
+D:\Yogesh\SEO\Yogihosting\new\New folder\IdentityServer-with-ASP.NET-Core-Identity-and-MongoDB-as-Database-main\ISExample\ISExample\obj\Debug\net10.0\ISExample.csproj.CoreCompileInputs.cache
+D:\Yogesh\SEO\Yogihosting\new\New folder\IdentityServer-with-ASP.NET-Core-Identity-and-MongoDB-as-Database-main\ISExample\ISExample\obj\Debug\net10.0\ISExample.MvcApplicationPartsAssemblyInfo.cache
+D:\Yogesh\SEO\Yogihosting\new\New folder\IdentityServer-with-ASP.NET-Core-Identity-and-MongoDB-as-Database-main\ISExample\ISExample\obj\Debug\net10.0\ISExample.RazorAssemblyInfo.cache
+D:\Yogesh\SEO\Yogihosting\new\New folder\IdentityServer-with-ASP.NET-Core-Identity-and-MongoDB-as-Database-main\ISExample\ISExample\obj\Debug\net10.0\ISExample.RazorAssemblyInfo.cs
+D:\Yogesh\SEO\Yogihosting\new\New folder\IdentityServer-with-ASP.NET-Core-Identity-and-MongoDB-as-Database-main\ISExample\ISExample\obj\Debug\net10.0\rjimswa.dswa.cache.json
+D:\Yogesh\SEO\Yogihosting\new\New folder\IdentityServer-with-ASP.NET-Core-Identity-and-MongoDB-as-Database-main\ISExample\ISExample\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+D:\Yogesh\SEO\Yogihosting\new\New folder\IdentityServer-with-ASP.NET-Core-Identity-and-MongoDB-as-Database-main\ISExample\ISExample\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+D:\Yogesh\SEO\Yogihosting\new\New folder\IdentityServer-with-ASP.NET-Core-Identity-and-MongoDB-as-Database-main\ISExample\ISExample\obj\Debug\net10.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Yogesh\SEO\Yogihosting\new\New folder\IdentityServer-with-ASP.NET-Core-Identity-and-MongoDB-as-Database-main\ISExample\ISExample\obj\Debug\net10.0\scopedcss\bundle\ISExample.styles.css
+D:\Yogesh\SEO\Yogihosting\new\New folder\IdentityServer-with-ASP.NET-Core-Identity-and-MongoDB-as-Database-main\ISExample\ISExample\obj\Debug\net10.0\scopedcss\projectbundle\ISExample.bundle.scp.css
+D:\Yogesh\SEO\Yogihosting\new\New folder\IdentityServer-with-ASP.NET-Core-Identity-and-MongoDB-as-Database-main\ISExample\ISExample\obj\Debug\net10.0\compressed\h5bsly729i-{0}-fosamezn9b-fosamezn9b.gz
+D:\Yogesh\SEO\Yogihosting\new\New folder\IdentityServer-with-ASP.NET-Core-Identity-and-MongoDB-as-Database-main\ISExample\ISExample\obj\Debug\net10.0\compressed\txvf2j5r0y-{0}-61n19gt1b8-61n19gt1b8.gz
+D:\Yogesh\SEO\Yogihosting\new\New folder\IdentityServer-with-ASP.NET-Core-Identity-and-MongoDB-as-Database-main\ISExample\ISExample\obj\Debug\net10.0\compressed\szojuy81fy-{0}-fr7q2aak1r-fr7q2aak1r.gz
+D:\Yogesh\SEO\Yogihosting\new\New folder\IdentityServer-with-ASP.NET-Core-Identity-and-MongoDB-as-Database-main\ISExample\ISExample\obj\Debug\net10.0\compressed\hbrxbss7fy-{0}-agp80tu62r-agp80tu62r.gz
+D:\Yogesh\SEO\Yogihosting\new\New folder\IdentityServer-with-ASP.NET-Core-Identity-and-MongoDB-as-Database-main\ISExample\ISExample\obj\Debug\net10.0\compressed\xduuvussmc-{0}-st1cbwfwo5-st1cbwfwo5.gz
+D:\Yogesh\SEO\Yogihosting\new\New folder\IdentityServer-with-ASP.NET-Core-Identity-and-MongoDB-as-Database-main\ISExample\ISExample\obj\Debug\net10.0\compressed\d3c2q65x7n-{0}-unj9p35syc-unj9p35syc.gz
+D:\Yogesh\SEO\Yogihosting\new\New folder\IdentityServer-with-ASP.NET-Core-Identity-and-MongoDB-as-Database-main\ISExample\ISExample\obj\Debug\net10.0\compressed\7u5yz7t6dx-{0}-5vj65cig9w-5vj65cig9w.gz
+D:\Yogesh\SEO\Yogihosting\new\New folder\IdentityServer-with-ASP.NET-Core-Identity-and-MongoDB-as-Database-main\ISExample\ISExample\obj\Debug\net10.0\compressed\bib5rw6f20-{0}-q2ku51ktnl-q2ku51ktnl.gz
+D:\Yogesh\SEO\Yogihosting\new\New folder\IdentityServer-with-ASP.NET-Core-Identity-and-MongoDB-as-Database-main\ISExample\ISExample\obj\Debug\net10.0\compressed\lf0vgll1nr-{0}-2q4vfeazbq-2q4vfeazbq.gz
+D:\Yogesh\SEO\Yogihosting\new\New folder\IdentityServer-with-ASP.NET-Core-Identity-and-MongoDB-as-Database-main\ISExample\ISExample\obj\Debug\net10.0\compressed\6kjtcuy11s-{0}-n1oizzvkh6-n1oizzvkh6.gz
+D:\Yogesh\SEO\Yogihosting\new\New folder\IdentityServer-with-ASP.NET-Core-Identity-and-MongoDB-as-Database-main\ISExample\ISExample\obj\Debug\net10.0\compressed\fuk8hn5j0e-{0}-o371a8zbv2-o371a8zbv2.gz
+D:\Yogesh\SEO\Yogihosting\new\New folder\IdentityServer-with-ASP.NET-Core-Identity-and-MongoDB-as-Database-main\ISExample\ISExample\obj\Debug\net10.0\compressed\kvqwhp7g9o-{0}-7na4sro3qu-7na4sro3qu.gz
+D:\Yogesh\SEO\Yogihosting\new\New folder\IdentityServer-with-ASP.NET-Core-Identity-and-MongoDB-as-Database-main\ISExample\ISExample\obj\Debug\net10.0\compressed\ktuo0q1z0w-{0}-jeal3x0ldm-jeal3x0ldm.gz
+D:\Yogesh\SEO\Yogihosting\new\New folder\IdentityServer-with-ASP.NET-Core-Identity-and-MongoDB-as-Database-main\ISExample\ISExample\obj\Debug\net10.0\compressed\li04sv1g7i-{0}-f8imaxxbri-f8imaxxbri.gz
+D:\Yogesh\SEO\Yogihosting\new\New folder\IdentityServer-with-ASP.NET-Core-Identity-and-MongoDB-as-Database-main\ISExample\ISExample\obj\Debug\net10.0\compressed\u2dlqwuchs-{0}-okkk44j0xs-okkk44j0xs.gz
+D:\Yogesh\SEO\Yogihosting\new\New folder\IdentityServer-with-ASP.NET-Core-Identity-and-MongoDB-as-Database-main\ISExample\ISExample\obj\Debug\net10.0\compressed\1yel8a1j1n-{0}-0wve5yxp74-0wve5yxp74.gz
+D:\Yogesh\SEO\Yogihosting\new\New folder\IdentityServer-with-ASP.NET-Core-Identity-and-MongoDB-as-Database-main\ISExample\ISExample\obj\Debug\net10.0\compressed\6ja8auhrmy-{0}-cwzlr5n8x4-cwzlr5n8x4.gz
+D:\Yogesh\SEO\Yogihosting\new\New folder\IdentityServer-with-ASP.NET-Core-Identity-and-MongoDB-as-Database-main\ISExample\ISExample\obj\Debug\net10.0\compressed\x1ktbx2m22-{0}-npxfuf8dg6-npxfuf8dg6.gz
+D:\Yogesh\SEO\Yogihosting\new\New folder\IdentityServer-with-ASP.NET-Core-Identity-and-MongoDB-as-Database-main\ISExample\ISExample\obj\Debug\net10.0\compressed\2gybgd9g1l-{0}-wmug9u23qg-wmug9u23qg.gz
+D:\Yogesh\SEO\Yogihosting\new\New folder\IdentityServer-with-ASP.NET-Core-Identity-and-MongoDB-as-Database-main\ISExample\ISExample\obj\Debug\net10.0\compressed\qkh1r0ulot-{0}-tey0rigmnh-tey0rigmnh.gz
+D:\Yogesh\SEO\Yogihosting\new\New folder\IdentityServer-with-ASP.NET-Core-Identity-and-MongoDB-as-Database-main\ISExample\ISExample\obj\Debug\net10.0\compressed\qfkgug2uho-{0}-j75batdsum-j75batdsum.gz
+D:\Yogesh\SEO\Yogihosting\new\New folder\IdentityServer-with-ASP.NET-Core-Identity-and-MongoDB-as-Database-main\ISExample\ISExample\obj\Debug\net10.0\compressed\movnen532r-{0}-16095smhkz-16095smhkz.gz
+D:\Yogesh\SEO\Yogihosting\new\New folder\IdentityServer-with-ASP.NET-Core-Identity-and-MongoDB-as-Database-main\ISExample\ISExample\obj\Debug\net10.0\compressed\umaspm5phi-{0}-vy0bq9ydhf-vy0bq9ydhf.gz
+D:\Yogesh\SEO\Yogihosting\new\New folder\IdentityServer-with-ASP.NET-Core-Identity-and-MongoDB-as-Database-main\ISExample\ISExample\obj\Debug\net10.0\compressed\ba2obypnpi-{0}-b4skse8du6-b4skse8du6.gz
+D:\Yogesh\SEO\Yogihosting\new\New folder\IdentityServer-with-ASP.NET-Core-Identity-and-MongoDB-as-Database-main\ISExample\ISExample\obj\Debug\net10.0\compressed\tzk3qzbkwo-{0}-ab1c3rmv7g-ab1c3rmv7g.gz
+D:\Yogesh\SEO\Yogihosting\new\New folder\IdentityServer-with-ASP.NET-Core-Identity-and-MongoDB-as-Database-main\ISExample\ISExample\obj\Debug\net10.0\compressed\jwlnh6td1a-{0}-u3xrusw2ol-u3xrusw2ol.gz
+D:\Yogesh\SEO\Yogihosting\new\New folder\IdentityServer-with-ASP.NET-Core-Identity-and-MongoDB-as-Database-main\ISExample\ISExample\obj\Debug\net10.0\compressed\24kggfv3yo-{0}-56d2bn4wt9-56d2bn4wt9.gz
+D:\Yogesh\SEO\Yogihosting\new\New folder\IdentityServer-with-ASP.NET-Core-Identity-and-MongoDB-as-Database-main\ISExample\ISExample\obj\Debug\net10.0\compressed\8itt9cer3e-{0}-mpyigms19s-mpyigms19s.gz
+D:\Yogesh\SEO\Yogihosting\new\New folder\IdentityServer-with-ASP.NET-Core-Identity-and-MongoDB-as-Database-main\ISExample\ISExample\obj\Debug\net10.0\compressed\3hpf81izhc-{0}-73kdqttayv-73kdqttayv.gz
+D:\Yogesh\SEO\Yogihosting\new\New folder\IdentityServer-with-ASP.NET-Core-Identity-and-MongoDB-as-Database-main\ISExample\ISExample\obj\Debug\net10.0\compressed\qc3rp38o9z-{0}-bpk8xqwxhs-bpk8xqwxhs.gz
+D:\Yogesh\SEO\Yogihosting\new\New folder\IdentityServer-with-ASP.NET-Core-Identity-and-MongoDB-as-Database-main\ISExample\ISExample\obj\Debug\net10.0\compressed\y980uevbyb-{0}-8inm30yfxf-8inm30yfxf.gz
+D:\Yogesh\SEO\Yogihosting\new\New folder\IdentityServer-with-ASP.NET-Core-Identity-and-MongoDB-as-Database-main\ISExample\ISExample\obj\Debug\net10.0\compressed\xdui7p0zbk-{0}-ve6x09088i-ve6x09088i.gz
+D:\Yogesh\SEO\Yogihosting\new\New folder\IdentityServer-with-ASP.NET-Core-Identity-and-MongoDB-as-Database-main\ISExample\ISExample\obj\Debug\net10.0\compressed\ztdrzy6gdu-{0}-4gxs3k148c-4gxs3k148c.gz
+D:\Yogesh\SEO\Yogihosting\new\New folder\IdentityServer-with-ASP.NET-Core-Identity-and-MongoDB-as-Database-main\ISExample\ISExample\obj\Debug\net10.0\compressed\tol4acxf40-{0}-9b9oa1qrmt-9b9oa1qrmt.gz
+D:\Yogesh\SEO\Yogihosting\new\New folder\IdentityServer-with-ASP.NET-Core-Identity-and-MongoDB-as-Database-main\ISExample\ISExample\obj\Debug\net10.0\compressed\24vyznbr70-{0}-fctod5rc9n-fctod5rc9n.gz
+D:\Yogesh\SEO\Yogihosting\new\New folder\IdentityServer-with-ASP.NET-Core-Identity-and-MongoDB-as-Database-main\ISExample\ISExample\obj\Debug\net10.0\compressed\8wc1zr32b2-{0}-l2av4jpuoj-l2av4jpuoj.gz
+D:\Yogesh\SEO\Yogihosting\new\New folder\IdentityServer-with-ASP.NET-Core-Identity-and-MongoDB-as-Database-main\ISExample\ISExample\obj\Debug\net10.0\compressed\hktqtwnich-{0}-kbynt5jhd9-kbynt5jhd9.gz
+D:\Yogesh\SEO\Yogihosting\new\New folder\IdentityServer-with-ASP.NET-Core-Identity-and-MongoDB-as-Database-main\ISExample\ISExample\obj\Debug\net10.0\compressed\tikb5mt4zs-{0}-25iw1kog22-25iw1kog22.gz
+D:\Yogesh\SEO\Yogihosting\new\New folder\IdentityServer-with-ASP.NET-Core-Identity-and-MongoDB-as-Database-main\ISExample\ISExample\obj\Debug\net10.0\compressed\v4ob34qsv5-{0}-c2nslu3uf3-c2nslu3uf3.gz
+D:\Yogesh\SEO\Yogihosting\new\New folder\IdentityServer-with-ASP.NET-Core-Identity-and-MongoDB-as-Database-main\ISExample\ISExample\obj\Debug\net10.0\compressed\j1yxkwxxy3-{0}-m39kt2b5c9-m39kt2b5c9.gz
+D:\Yogesh\SEO\Yogihosting\new\New folder\IdentityServer-with-ASP.NET-Core-Identity-and-MongoDB-as-Database-main\ISExample\ISExample\obj\Debug\net10.0\compressed\nvactkqbxl-{0}-2lgwfvgpvi-2lgwfvgpvi.gz
+D:\Yogesh\SEO\Yogihosting\new\New folder\IdentityServer-with-ASP.NET-Core-Identity-and-MongoDB-as-Database-main\ISExample\ISExample\obj\Debug\net10.0\compressed\6r7rln5qm7-{0}-um2aeqy4ik-um2aeqy4ik.gz
+D:\Yogesh\SEO\Yogihosting\new\New folder\IdentityServer-with-ASP.NET-Core-Identity-and-MongoDB-as-Database-main\ISExample\ISExample\obj\Debug\net10.0\compressed\iact0xik6q-{0}-wsezl0heh6-wsezl0heh6.gz
+D:\Yogesh\SEO\Yogihosting\new\New folder\IdentityServer-with-ASP.NET-Core-Identity-and-MongoDB-as-Database-main\ISExample\ISExample\obj\Debug\net10.0\compressed\p8gk5sapy8-{0}-o4kw7cc6tf-o4kw7cc6tf.gz
+D:\Yogesh\SEO\Yogihosting\new\New folder\IdentityServer-with-ASP.NET-Core-Identity-and-MongoDB-as-Database-main\ISExample\ISExample\obj\Debug\net10.0\compressed\58xim77b7d-{0}-6ukhryfubh-6ukhryfubh.gz
+D:\Yogesh\SEO\Yogihosting\new\New folder\IdentityServer-with-ASP.NET-Core-Identity-and-MongoDB-as-Database-main\ISExample\ISExample\obj\Debug\net10.0\compressed\figybvu63l-{0}-zwph15dxgs-zwph15dxgs.gz
+D:\Yogesh\SEO\Yogihosting\new\New folder\IdentityServer-with-ASP.NET-Core-Identity-and-MongoDB-as-Database-main\ISExample\ISExample\obj\Debug\net10.0\compressed\pgj10rq4xa-{0}-u33ctipx7g-u33ctipx7g.gz
+D:\Yogesh\SEO\Yogihosting\new\New folder\IdentityServer-with-ASP.NET-Core-Identity-and-MongoDB-as-Database-main\ISExample\ISExample\obj\Debug\net10.0\compressed\0yw6z6ehce-{0}-47otxtyo56-47otxtyo56.gz
+D:\Yogesh\SEO\Yogihosting\new\New folder\IdentityServer-with-ASP.NET-Core-Identity-and-MongoDB-as-Database-main\ISExample\ISExample\obj\Debug\net10.0\compressed\kj24nqrfw9-{0}-4v8eqarkd7-4v8eqarkd7.gz
+D:\Yogesh\SEO\Yogihosting\new\New folder\IdentityServer-with-ASP.NET-Core-Identity-and-MongoDB-as-Database-main\ISExample\ISExample\obj\Debug\net10.0\compressed\ukohybk639-{0}-l3n5xuwxn8-l3n5xuwxn8.gz
+D:\Yogesh\SEO\Yogihosting\new\New folder\IdentityServer-with-ASP.NET-Core-Identity-and-MongoDB-as-Database-main\ISExample\ISExample\obj\Debug\net10.0\compressed\j3snafgn4o-{0}-gcjdx5jb8l-gcjdx5jb8l.gz
+D:\Yogesh\SEO\Yogihosting\new\New folder\IdentityServer-with-ASP.NET-Core-Identity-and-MongoDB-as-Database-main\ISExample\ISExample\obj\Debug\net10.0\compressed\htp4b9lwlr-{0}-35gxhxa0gh-35gxhxa0gh.gz
+D:\Yogesh\SEO\Yogihosting\new\New folder\IdentityServer-with-ASP.NET-Core-Identity-and-MongoDB-as-Database-main\ISExample\ISExample\obj\Debug\net10.0\compressed\6f2c5kb20i-{0}-pzqfkb6aqo-pzqfkb6aqo.gz
+D:\Yogesh\SEO\Yogihosting\new\New folder\IdentityServer-with-ASP.NET-Core-Identity-and-MongoDB-as-Database-main\ISExample\ISExample\obj\Debug\net10.0\compressed\da0pie9l2u-{0}-b7iojwaux1-b7iojwaux1.gz
+D:\Yogesh\SEO\Yogihosting\new\New folder\IdentityServer-with-ASP.NET-Core-Identity-and-MongoDB-as-Database-main\ISExample\ISExample\obj\Debug\net10.0\compressed\r7y4n9qvrb-{0}-xzw0cte36n-xzw0cte36n.gz
+D:\Yogesh\SEO\Yogihosting\new\New folder\IdentityServer-with-ASP.NET-Core-Identity-and-MongoDB-as-Database-main\ISExample\ISExample\obj\Debug\net10.0\compressed\nhv5emgu3w-{0}-fwhahm2icz-fwhahm2icz.gz
+D:\Yogesh\SEO\Yogihosting\new\New folder\IdentityServer-with-ASP.NET-Core-Identity-and-MongoDB-as-Database-main\ISExample\ISExample\obj\Debug\net10.0\compressed\s1fzwgjt0a-{0}-dd6z7egasc-dd6z7egasc.gz
+D:\Yogesh\SEO\Yogihosting\new\New folder\IdentityServer-with-ASP.NET-Core-Identity-and-MongoDB-as-Database-main\ISExample\ISExample\obj\Debug\net10.0\compressed\m93pav8jop-{0}-5pze98is44-5pze98is44.gz
+D:\Yogesh\SEO\Yogihosting\new\New folder\IdentityServer-with-ASP.NET-Core-Identity-and-MongoDB-as-Database-main\ISExample\ISExample\obj\Debug\net10.0\compressed\9vx592hp81-{0}-jfsiqqwiad-jfsiqqwiad.gz
+D:\Yogesh\SEO\Yogihosting\new\New folder\IdentityServer-with-ASP.NET-Core-Identity-and-MongoDB-as-Database-main\ISExample\ISExample\obj\Debug\net10.0\compressed\hu3bp9wci9-{0}-yerj5d8anq-yerj5d8anq.gz
+D:\Yogesh\SEO\Yogihosting\new\New folder\IdentityServer-with-ASP.NET-Core-Identity-and-MongoDB-as-Database-main\ISExample\ISExample\obj\Debug\net10.0\compressed\297i0skb1y-{0}-yerj5d8anq-yerj5d8anq.gz
+D:\Yogesh\SEO\Yogihosting\new\New folder\IdentityServer-with-ASP.NET-Core-Identity-and-MongoDB-as-Database-main\ISExample\ISExample\obj\Debug\net10.0\staticwebassets.build.json
+D:\Yogesh\SEO\Yogihosting\new\New folder\IdentityServer-with-ASP.NET-Core-Identity-and-MongoDB-as-Database-main\ISExample\ISExample\obj\Debug\net10.0\staticwebassets.build.json.cache
+D:\Yogesh\SEO\Yogihosting\new\New folder\IdentityServer-with-ASP.NET-Core-Identity-and-MongoDB-as-Database-main\ISExample\ISExample\obj\Debug\net10.0\staticwebassets.development.json
+D:\Yogesh\SEO\Yogihosting\new\New folder\IdentityServer-with-ASP.NET-Core-Identity-and-MongoDB-as-Database-main\ISExample\ISExample\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+D:\Yogesh\SEO\Yogihosting\new\New folder\IdentityServer-with-ASP.NET-Core-Identity-and-MongoDB-as-Database-main\ISExample\ISExample\obj\Debug\net10.0\swae.build.ex.cache
+D:\Yogesh\SEO\Yogihosting\new\New folder\IdentityServer-with-ASP.NET-Core-Identity-and-MongoDB-as-Database-main\ISExample\ISExample\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+D:\Yogesh\SEO\Yogihosting\new\New folder\IdentityServer-with-ASP.NET-Core-Identity-and-MongoDB-as-Database-main\ISExample\ISExample\obj\Debug\net10.0\ISExample.csproj.Up2Date
+D:\Yogesh\SEO\Yogihosting\new\New folder\IdentityServer-with-ASP.NET-Core-Identity-and-MongoDB-as-Database-main\ISExample\ISExample\obj\Debug\net10.0\ISExample.dll
+D:\Yogesh\SEO\Yogihosting\new\New folder\IdentityServer-with-ASP.NET-Core-Identity-and-MongoDB-as-Database-main\ISExample\ISExample\obj\Debug\net10.0\refint\ISExample.dll
+D:\Yogesh\SEO\Yogihosting\new\New folder\IdentityServer-with-ASP.NET-Core-Identity-and-MongoDB-as-Database-main\ISExample\ISExample\obj\Debug\net10.0\ISExample.pdb
+D:\Yogesh\SEO\Yogihosting\new\New folder\IdentityServer-with-ASP.NET-Core-Identity-and-MongoDB-as-Database-main\ISExample\ISExample\obj\Debug\net10.0\ISExample.genruntimeconfig.cache
+D:\Yogesh\SEO\Yogihosting\new\New folder\IdentityServer-with-ASP.NET-Core-Identity-and-MongoDB-as-Database-main\ISExample\ISExample\obj\Debug\net10.0\ref\ISExample.dll
+D:\Yogesh\SEO\Yogihosting\new\New folder\IdentityServer-with-ASP.NET-Core-Identity-and-MongoDB-as-Database-main\ISExample\ISExample\bin\Debug\net10.0\Duende.IdentityModel.dll
+D:\Yogesh\SEO\Yogihosting\new\New folder\IdentityServer-with-ASP.NET-Core-Identity-and-MongoDB-as-Database-main\ISExample\ISExample\bin\Debug\net10.0\Duende.IdentityServer.dll
+D:\Yogesh\SEO\Yogihosting\new\New folder\IdentityServer-with-ASP.NET-Core-Identity-and-MongoDB-as-Database-main\ISExample\ISExample\bin\Debug\net10.0\Duende.IdentityServer.AspNetIdentity.dll
+D:\Yogesh\SEO\Yogihosting\new\New folder\IdentityServer-with-ASP.NET-Core-Identity-and-MongoDB-as-Database-main\ISExample\ISExample\bin\Debug\net10.0\Duende.IdentityServer.Storage.dll
+D:\Yogesh\SEO\Yogihosting\new\New folder\IdentityServer-with-ASP.NET-Core-Identity-and-MongoDB-as-Database-main\ISExample\ISExample\bin\Debug\net10.0\Duende.Private.Licensing.dll
+D:\Yogesh\SEO\Yogihosting\new\New folder\IdentityServer-with-ASP.NET-Core-Identity-and-MongoDB-as-Database-main\ISExample\ISExample\bin\Debug\net10.0\Microsoft.Extensions.Caching.Hybrid.dll
+D:\Yogesh\SEO\Yogihosting\new\New folder\IdentityServer-with-ASP.NET-Core-Identity-and-MongoDB-as-Database-main\ISExample\ISExample\bin\Debug\net10.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Yogesh\SEO\Yogihosting\new\New folder\IdentityServer-with-ASP.NET-Core-Identity-and-MongoDB-as-Database-main\ISExample\ISExample\bin\Debug\net10.0\Microsoft.IdentityModel.Tokens.Saml.dll
+D:\Yogesh\SEO\Yogihosting\new\New folder\IdentityServer-with-ASP.NET-Core-Identity-and-MongoDB-as-Database-main\ISExample\ISExample\bin\Debug\net10.0\Microsoft.IdentityModel.Xml.dll
+D:\Yogesh\SEO\Yogihosting\new\IS\IdentityServer-with-ASP.NET-Core-Identity-and-MongoDB-as-Database-main\ISExample\ISExample\bin\Debug\net10.0\appsettings.Development.json
+D:\Yogesh\SEO\Yogihosting\new\IS\IdentityServer-with-ASP.NET-Core-Identity-and-MongoDB-as-Database-main\ISExample\ISExample\bin\Debug\net10.0\appsettings.json
+D:\Yogesh\SEO\Yogihosting\new\IS\IdentityServer-with-ASP.NET-Core-Identity-and-MongoDB-as-Database-main\ISExample\ISExample\bin\Debug\net10.0\keys\is-signing-key-9AE0385D5BE5C7DAEE7BA6101433F640.json
+D:\Yogesh\SEO\Yogihosting\new\IS\IdentityServer-with-ASP.NET-Core-Identity-and-MongoDB-as-Database-main\ISExample\ISExample\bin\Debug\net10.0\ISExample.staticwebassets.endpoints.json
+D:\Yogesh\SEO\Yogihosting\new\IS\IdentityServer-with-ASP.NET-Core-Identity-and-MongoDB-as-Database-main\ISExample\ISExample\bin\Debug\net10.0\ISExample.staticwebassets.runtime.json
+D:\Yogesh\SEO\Yogihosting\new\IS\IdentityServer-with-ASP.NET-Core-Identity-and-MongoDB-as-Database-main\ISExample\ISExample\bin\Debug\net10.0\ISExample.exe
+D:\Yogesh\SEO\Yogihosting\new\IS\IdentityServer-with-ASP.NET-Core-Identity-and-MongoDB-as-Database-main\ISExample\ISExample\bin\Debug\net10.0\ISExample.deps.json
+D:\Yogesh\SEO\Yogihosting\new\IS\IdentityServer-with-ASP.NET-Core-Identity-and-MongoDB-as-Database-main\ISExample\ISExample\bin\Debug\net10.0\ISExample.runtimeconfig.json
+D:\Yogesh\SEO\Yogihosting\new\IS\IdentityServer-with-ASP.NET-Core-Identity-and-MongoDB-as-Database-main\ISExample\ISExample\bin\Debug\net10.0\ISExample.dll
+D:\Yogesh\SEO\Yogihosting\new\IS\IdentityServer-with-ASP.NET-Core-Identity-and-MongoDB-as-Database-main\ISExample\ISExample\bin\Debug\net10.0\ISExample.pdb
+D:\Yogesh\SEO\Yogihosting\new\IS\IdentityServer-with-ASP.NET-Core-Identity-and-MongoDB-as-Database-main\ISExample\ISExample\bin\Debug\net10.0\AspNetCore.Identity.MongoDbCore.dll
+D:\Yogesh\SEO\Yogihosting\new\IS\IdentityServer-with-ASP.NET-Core-Identity-and-MongoDB-as-Database-main\ISExample\ISExample\bin\Debug\net10.0\DnsClient.dll
+D:\Yogesh\SEO\Yogihosting\new\IS\IdentityServer-with-ASP.NET-Core-Identity-and-MongoDB-as-Database-main\ISExample\ISExample\bin\Debug\net10.0\Duende.IdentityModel.dll
+D:\Yogesh\SEO\Yogihosting\new\IS\IdentityServer-with-ASP.NET-Core-Identity-and-MongoDB-as-Database-main\ISExample\ISExample\bin\Debug\net10.0\Duende.IdentityServer.dll
+D:\Yogesh\SEO\Yogihosting\new\IS\IdentityServer-with-ASP.NET-Core-Identity-and-MongoDB-as-Database-main\ISExample\ISExample\bin\Debug\net10.0\Duende.IdentityServer.AspNetIdentity.dll
+D:\Yogesh\SEO\Yogihosting\new\IS\IdentityServer-with-ASP.NET-Core-Identity-and-MongoDB-as-Database-main\ISExample\ISExample\bin\Debug\net10.0\Duende.IdentityServer.Storage.dll
+D:\Yogesh\SEO\Yogihosting\new\IS\IdentityServer-with-ASP.NET-Core-Identity-and-MongoDB-as-Database-main\ISExample\ISExample\bin\Debug\net10.0\Duende.Private.Licensing.dll
+D:\Yogesh\SEO\Yogihosting\new\IS\IdentityServer-with-ASP.NET-Core-Identity-and-MongoDB-as-Database-main\ISExample\ISExample\bin\Debug\net10.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+D:\Yogesh\SEO\Yogihosting\new\IS\IdentityServer-with-ASP.NET-Core-Identity-and-MongoDB-as-Database-main\ISExample\ISExample\bin\Debug\net10.0\Microsoft.Extensions.Caching.Hybrid.dll
+D:\Yogesh\SEO\Yogihosting\new\IS\IdentityServer-with-ASP.NET-Core-Identity-and-MongoDB-as-Database-main\ISExample\ISExample\bin\Debug\net10.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Yogesh\SEO\Yogihosting\new\IS\IdentityServer-with-ASP.NET-Core-Identity-and-MongoDB-as-Database-main\ISExample\ISExample\bin\Debug\net10.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Yogesh\SEO\Yogihosting\new\IS\IdentityServer-with-ASP.NET-Core-Identity-and-MongoDB-as-Database-main\ISExample\ISExample\bin\Debug\net10.0\Microsoft.IdentityModel.Logging.dll
+D:\Yogesh\SEO\Yogihosting\new\IS\IdentityServer-with-ASP.NET-Core-Identity-and-MongoDB-as-Database-main\ISExample\ISExample\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.dll
+D:\Yogesh\SEO\Yogihosting\new\IS\IdentityServer-with-ASP.NET-Core-Identity-and-MongoDB-as-Database-main\ISExample\ISExample\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Yogesh\SEO\Yogihosting\new\IS\IdentityServer-with-ASP.NET-Core-Identity-and-MongoDB-as-Database-main\ISExample\ISExample\bin\Debug\net10.0\Microsoft.IdentityModel.Tokens.dll
+D:\Yogesh\SEO\Yogihosting\new\IS\IdentityServer-with-ASP.NET-Core-Identity-and-MongoDB-as-Database-main\ISExample\ISExample\bin\Debug\net10.0\Microsoft.IdentityModel.Tokens.Saml.dll
+D:\Yogesh\SEO\Yogihosting\new\IS\IdentityServer-with-ASP.NET-Core-Identity-and-MongoDB-as-Database-main\ISExample\ISExample\bin\Debug\net10.0\Microsoft.IdentityModel.Xml.dll
+D:\Yogesh\SEO\Yogihosting\new\IS\IdentityServer-with-ASP.NET-Core-Identity-and-MongoDB-as-Database-main\ISExample\ISExample\bin\Debug\net10.0\MongoDB.Bson.dll
+D:\Yogesh\SEO\Yogihosting\new\IS\IdentityServer-with-ASP.NET-Core-Identity-and-MongoDB-as-Database-main\ISExample\ISExample\bin\Debug\net10.0\MongoDB.Driver.dll
+D:\Yogesh\SEO\Yogihosting\new\IS\IdentityServer-with-ASP.NET-Core-Identity-and-MongoDB-as-Database-main\ISExample\ISExample\bin\Debug\net10.0\MongoDbGenericRepository.dll
+D:\Yogesh\SEO\Yogihosting\new\IS\IdentityServer-with-ASP.NET-Core-Identity-and-MongoDB-as-Database-main\ISExample\ISExample\bin\Debug\net10.0\SharpCompress.dll
+D:\Yogesh\SEO\Yogihosting\new\IS\IdentityServer-with-ASP.NET-Core-Identity-and-MongoDB-as-Database-main\ISExample\ISExample\bin\Debug\net10.0\Snappier.dll
+D:\Yogesh\SEO\Yogihosting\new\IS\IdentityServer-with-ASP.NET-Core-Identity-and-MongoDB-as-Database-main\ISExample\ISExample\bin\Debug\net10.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Yogesh\SEO\Yogihosting\new\IS\IdentityServer-with-ASP.NET-Core-Identity-and-MongoDB-as-Database-main\ISExample\ISExample\bin\Debug\net10.0\ZstdSharp.dll
+D:\Yogesh\SEO\Yogihosting\new\IS\IdentityServer-with-ASP.NET-Core-Identity-and-MongoDB-as-Database-main\ISExample\ISExample\obj\Debug\net10.0\ISExample.csproj.AssemblyReference.cache
+D:\Yogesh\SEO\Yogihosting\new\IS\IdentityServer-with-ASP.NET-Core-Identity-and-MongoDB-as-Database-main\ISExample\ISExample\obj\Debug\net10.0\rpswa.dswa.cache.json
+D:\Yogesh\SEO\Yogihosting\new\IS\IdentityServer-with-ASP.NET-Core-Identity-and-MongoDB-as-Database-main\ISExample\ISExample\obj\Debug\net10.0\ISExample.GeneratedMSBuildEditorConfig.editorconfig
+D:\Yogesh\SEO\Yogihosting\new\IS\IdentityServer-with-ASP.NET-Core-Identity-and-MongoDB-as-Database-main\ISExample\ISExample\obj\Debug\net10.0\ISExample.AssemblyInfoInputs.cache
+D:\Yogesh\SEO\Yogihosting\new\IS\IdentityServer-with-ASP.NET-Core-Identity-and-MongoDB-as-Database-main\ISExample\ISExample\obj\Debug\net10.0\ISExample.AssemblyInfo.cs
+D:\Yogesh\SEO\Yogihosting\new\IS\IdentityServer-with-ASP.NET-Core-Identity-and-MongoDB-as-Database-main\ISExample\ISExample\obj\Debug\net10.0\ISExample.csproj.CoreCompileInputs.cache
+D:\Yogesh\SEO\Yogihosting\new\IS\IdentityServer-with-ASP.NET-Core-Identity-and-MongoDB-as-Database-main\ISExample\ISExample\obj\Debug\net10.0\ISExample.MvcApplicationPartsAssemblyInfo.cache
+D:\Yogesh\SEO\Yogihosting\new\IS\IdentityServer-with-ASP.NET-Core-Identity-and-MongoDB-as-Database-main\ISExample\ISExample\obj\Debug\net10.0\ISExample.RazorAssemblyInfo.cache
+D:\Yogesh\SEO\Yogihosting\new\IS\IdentityServer-with-ASP.NET-Core-Identity-and-MongoDB-as-Database-main\ISExample\ISExample\obj\Debug\net10.0\ISExample.RazorAssemblyInfo.cs
+D:\Yogesh\SEO\Yogihosting\new\IS\IdentityServer-with-ASP.NET-Core-Identity-and-MongoDB-as-Database-main\ISExample\ISExample\obj\Debug\net10.0\rjimswa.dswa.cache.json
+D:\Yogesh\SEO\Yogihosting\new\IS\IdentityServer-with-ASP.NET-Core-Identity-and-MongoDB-as-Database-main\ISExample\ISExample\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+D:\Yogesh\SEO\Yogihosting\new\IS\IdentityServer-with-ASP.NET-Core-Identity-and-MongoDB-as-Database-main\ISExample\ISExample\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+D:\Yogesh\SEO\Yogihosting\new\IS\IdentityServer-with-ASP.NET-Core-Identity-and-MongoDB-as-Database-main\ISExample\ISExample\obj\Debug\net10.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Yogesh\SEO\Yogihosting\new\IS\IdentityServer-with-ASP.NET-Core-Identity-and-MongoDB-as-Database-main\ISExample\ISExample\obj\Debug\net10.0\scopedcss\bundle\ISExample.styles.css
+D:\Yogesh\SEO\Yogihosting\new\IS\IdentityServer-with-ASP.NET-Core-Identity-and-MongoDB-as-Database-main\ISExample\ISExample\obj\Debug\net10.0\scopedcss\projectbundle\ISExample.bundle.scp.css
+D:\Yogesh\SEO\Yogihosting\new\IS\IdentityServer-with-ASP.NET-Core-Identity-and-MongoDB-as-Database-main\ISExample\ISExample\obj\Debug\net10.0\compressed\h5bsly729i-{0}-fosamezn9b-fosamezn9b.gz
+D:\Yogesh\SEO\Yogihosting\new\IS\IdentityServer-with-ASP.NET-Core-Identity-and-MongoDB-as-Database-main\ISExample\ISExample\obj\Debug\net10.0\compressed\txvf2j5r0y-{0}-61n19gt1b8-61n19gt1b8.gz
+D:\Yogesh\SEO\Yogihosting\new\IS\IdentityServer-with-ASP.NET-Core-Identity-and-MongoDB-as-Database-main\ISExample\ISExample\obj\Debug\net10.0\compressed\szojuy81fy-{0}-fr7q2aak1r-fr7q2aak1r.gz
+D:\Yogesh\SEO\Yogihosting\new\IS\IdentityServer-with-ASP.NET-Core-Identity-and-MongoDB-as-Database-main\ISExample\ISExample\obj\Debug\net10.0\compressed\hbrxbss7fy-{0}-agp80tu62r-agp80tu62r.gz
+D:\Yogesh\SEO\Yogihosting\new\IS\IdentityServer-with-ASP.NET-Core-Identity-and-MongoDB-as-Database-main\ISExample\ISExample\obj\Debug\net10.0\compressed\xduuvussmc-{0}-st1cbwfwo5-st1cbwfwo5.gz
+D:\Yogesh\SEO\Yogihosting\new\IS\IdentityServer-with-ASP.NET-Core-Identity-and-MongoDB-as-Database-main\ISExample\ISExample\obj\Debug\net10.0\compressed\d3c2q65x7n-{0}-unj9p35syc-unj9p35syc.gz
+D:\Yogesh\SEO\Yogihosting\new\IS\IdentityServer-with-ASP.NET-Core-Identity-and-MongoDB-as-Database-main\ISExample\ISExample\obj\Debug\net10.0\compressed\7u5yz7t6dx-{0}-5vj65cig9w-5vj65cig9w.gz
+D:\Yogesh\SEO\Yogihosting\new\IS\IdentityServer-with-ASP.NET-Core-Identity-and-MongoDB-as-Database-main\ISExample\ISExample\obj\Debug\net10.0\compressed\bib5rw6f20-{0}-q2ku51ktnl-q2ku51ktnl.gz
+D:\Yogesh\SEO\Yogihosting\new\IS\IdentityServer-with-ASP.NET-Core-Identity-and-MongoDB-as-Database-main\ISExample\ISExample\obj\Debug\net10.0\compressed\lf0vgll1nr-{0}-2q4vfeazbq-2q4vfeazbq.gz
+D:\Yogesh\SEO\Yogihosting\new\IS\IdentityServer-with-ASP.NET-Core-Identity-and-MongoDB-as-Database-main\ISExample\ISExample\obj\Debug\net10.0\compressed\6kjtcuy11s-{0}-n1oizzvkh6-n1oizzvkh6.gz
+D:\Yogesh\SEO\Yogihosting\new\IS\IdentityServer-with-ASP.NET-Core-Identity-and-MongoDB-as-Database-main\ISExample\ISExample\obj\Debug\net10.0\compressed\fuk8hn5j0e-{0}-o371a8zbv2-o371a8zbv2.gz
+D:\Yogesh\SEO\Yogihosting\new\IS\IdentityServer-with-ASP.NET-Core-Identity-and-MongoDB-as-Database-main\ISExample\ISExample\obj\Debug\net10.0\compressed\kvqwhp7g9o-{0}-7na4sro3qu-7na4sro3qu.gz
+D:\Yogesh\SEO\Yogihosting\new\IS\IdentityServer-with-ASP.NET-Core-Identity-and-MongoDB-as-Database-main\ISExample\ISExample\obj\Debug\net10.0\compressed\ktuo0q1z0w-{0}-jeal3x0ldm-jeal3x0ldm.gz
+D:\Yogesh\SEO\Yogihosting\new\IS\IdentityServer-with-ASP.NET-Core-Identity-and-MongoDB-as-Database-main\ISExample\ISExample\obj\Debug\net10.0\compressed\li04sv1g7i-{0}-f8imaxxbri-f8imaxxbri.gz
+D:\Yogesh\SEO\Yogihosting\new\IS\IdentityServer-with-ASP.NET-Core-Identity-and-MongoDB-as-Database-main\ISExample\ISExample\obj\Debug\net10.0\compressed\u2dlqwuchs-{0}-okkk44j0xs-okkk44j0xs.gz
+D:\Yogesh\SEO\Yogihosting\new\IS\IdentityServer-with-ASP.NET-Core-Identity-and-MongoDB-as-Database-main\ISExample\ISExample\obj\Debug\net10.0\compressed\1yel8a1j1n-{0}-0wve5yxp74-0wve5yxp74.gz
+D:\Yogesh\SEO\Yogihosting\new\IS\IdentityServer-with-ASP.NET-Core-Identity-and-MongoDB-as-Database-main\ISExample\ISExample\obj\Debug\net10.0\compressed\6ja8auhrmy-{0}-cwzlr5n8x4-cwzlr5n8x4.gz
+D:\Yogesh\SEO\Yogihosting\new\IS\IdentityServer-with-ASP.NET-Core-Identity-and-MongoDB-as-Database-main\ISExample\ISExample\obj\Debug\net10.0\compressed\x1ktbx2m22-{0}-npxfuf8dg6-npxfuf8dg6.gz
+D:\Yogesh\SEO\Yogihosting\new\IS\IdentityServer-with-ASP.NET-Core-Identity-and-MongoDB-as-Database-main\ISExample\ISExample\obj\Debug\net10.0\compressed\2gybgd9g1l-{0}-wmug9u23qg-wmug9u23qg.gz
+D:\Yogesh\SEO\Yogihosting\new\IS\IdentityServer-with-ASP.NET-Core-Identity-and-MongoDB-as-Database-main\ISExample\ISExample\obj\Debug\net10.0\compressed\qkh1r0ulot-{0}-tey0rigmnh-tey0rigmnh.gz
+D:\Yogesh\SEO\Yogihosting\new\IS\IdentityServer-with-ASP.NET-Core-Identity-and-MongoDB-as-Database-main\ISExample\ISExample\obj\Debug\net10.0\compressed\qfkgug2uho-{0}-j75batdsum-j75batdsum.gz
+D:\Yogesh\SEO\Yogihosting\new\IS\IdentityServer-with-ASP.NET-Core-Identity-and-MongoDB-as-Database-main\ISExample\ISExample\obj\Debug\net10.0\compressed\movnen532r-{0}-16095smhkz-16095smhkz.gz
+D:\Yogesh\SEO\Yogihosting\new\IS\IdentityServer-with-ASP.NET-Core-Identity-and-MongoDB-as-Database-main\ISExample\ISExample\obj\Debug\net10.0\compressed\umaspm5phi-{0}-vy0bq9ydhf-vy0bq9ydhf.gz
+D:\Yogesh\SEO\Yogihosting\new\IS\IdentityServer-with-ASP.NET-Core-Identity-and-MongoDB-as-Database-main\ISExample\ISExample\obj\Debug\net10.0\compressed\ba2obypnpi-{0}-b4skse8du6-b4skse8du6.gz
+D:\Yogesh\SEO\Yogihosting\new\IS\IdentityServer-with-ASP.NET-Core-Identity-and-MongoDB-as-Database-main\ISExample\ISExample\obj\Debug\net10.0\compressed\tzk3qzbkwo-{0}-ab1c3rmv7g-ab1c3rmv7g.gz
+D:\Yogesh\SEO\Yogihosting\new\IS\IdentityServer-with-ASP.NET-Core-Identity-and-MongoDB-as-Database-main\ISExample\ISExample\obj\Debug\net10.0\compressed\jwlnh6td1a-{0}-u3xrusw2ol-u3xrusw2ol.gz
+D:\Yogesh\SEO\Yogihosting\new\IS\IdentityServer-with-ASP.NET-Core-Identity-and-MongoDB-as-Database-main\ISExample\ISExample\obj\Debug\net10.0\compressed\24kggfv3yo-{0}-56d2bn4wt9-56d2bn4wt9.gz
+D:\Yogesh\SEO\Yogihosting\new\IS\IdentityServer-with-ASP.NET-Core-Identity-and-MongoDB-as-Database-main\ISExample\ISExample\obj\Debug\net10.0\compressed\8itt9cer3e-{0}-mpyigms19s-mpyigms19s.gz
+D:\Yogesh\SEO\Yogihosting\new\IS\IdentityServer-with-ASP.NET-Core-Identity-and-MongoDB-as-Database-main\ISExample\ISExample\obj\Debug\net10.0\compressed\3hpf81izhc-{0}-73kdqttayv-73kdqttayv.gz
+D:\Yogesh\SEO\Yogihosting\new\IS\IdentityServer-with-ASP.NET-Core-Identity-and-MongoDB-as-Database-main\ISExample\ISExample\obj\Debug\net10.0\compressed\qc3rp38o9z-{0}-bpk8xqwxhs-bpk8xqwxhs.gz
+D:\Yogesh\SEO\Yogihosting\new\IS\IdentityServer-with-ASP.NET-Core-Identity-and-MongoDB-as-Database-main\ISExample\ISExample\obj\Debug\net10.0\compressed\y980uevbyb-{0}-8inm30yfxf-8inm30yfxf.gz
+D:\Yogesh\SEO\Yogihosting\new\IS\IdentityServer-with-ASP.NET-Core-Identity-and-MongoDB-as-Database-main\ISExample\ISExample\obj\Debug\net10.0\compressed\xdui7p0zbk-{0}-ve6x09088i-ve6x09088i.gz
+D:\Yogesh\SEO\Yogihosting\new\IS\IdentityServer-with-ASP.NET-Core-Identity-and-MongoDB-as-Database-main\ISExample\ISExample\obj\Debug\net10.0\compressed\ztdrzy6gdu-{0}-4gxs3k148c-4gxs3k148c.gz
+D:\Yogesh\SEO\Yogihosting\new\IS\IdentityServer-with-ASP.NET-Core-Identity-and-MongoDB-as-Database-main\ISExample\ISExample\obj\Debug\net10.0\compressed\tol4acxf40-{0}-9b9oa1qrmt-9b9oa1qrmt.gz
+D:\Yogesh\SEO\Yogihosting\new\IS\IdentityServer-with-ASP.NET-Core-Identity-and-MongoDB-as-Database-main\ISExample\ISExample\obj\Debug\net10.0\compressed\24vyznbr70-{0}-fctod5rc9n-fctod5rc9n.gz
+D:\Yogesh\SEO\Yogihosting\new\IS\IdentityServer-with-ASP.NET-Core-Identity-and-MongoDB-as-Database-main\ISExample\ISExample\obj\Debug\net10.0\compressed\8wc1zr32b2-{0}-l2av4jpuoj-l2av4jpuoj.gz
+D:\Yogesh\SEO\Yogihosting\new\IS\IdentityServer-with-ASP.NET-Core-Identity-and-MongoDB-as-Database-main\ISExample\ISExample\obj\Debug\net10.0\compressed\hktqtwnich-{0}-kbynt5jhd9-kbynt5jhd9.gz
+D:\Yogesh\SEO\Yogihosting\new\IS\IdentityServer-with-ASP.NET-Core-Identity-and-MongoDB-as-Database-main\ISExample\ISExample\obj\Debug\net10.0\compressed\tikb5mt4zs-{0}-25iw1kog22-25iw1kog22.gz
+D:\Yogesh\SEO\Yogihosting\new\IS\IdentityServer-with-ASP.NET-Core-Identity-and-MongoDB-as-Database-main\ISExample\ISExample\obj\Debug\net10.0\compressed\v4ob34qsv5-{0}-c2nslu3uf3-c2nslu3uf3.gz
+D:\Yogesh\SEO\Yogihosting\new\IS\IdentityServer-with-ASP.NET-Core-Identity-and-MongoDB-as-Database-main\ISExample\ISExample\obj\Debug\net10.0\compressed\j1yxkwxxy3-{0}-m39kt2b5c9-m39kt2b5c9.gz
+D:\Yogesh\SEO\Yogihosting\new\IS\IdentityServer-with-ASP.NET-Core-Identity-and-MongoDB-as-Database-main\ISExample\ISExample\obj\Debug\net10.0\compressed\nvactkqbxl-{0}-2lgwfvgpvi-2lgwfvgpvi.gz
+D:\Yogesh\SEO\Yogihosting\new\IS\IdentityServer-with-ASP.NET-Core-Identity-and-MongoDB-as-Database-main\ISExample\ISExample\obj\Debug\net10.0\compressed\6r7rln5qm7-{0}-um2aeqy4ik-um2aeqy4ik.gz
+D:\Yogesh\SEO\Yogihosting\new\IS\IdentityServer-with-ASP.NET-Core-Identity-and-MongoDB-as-Database-main\ISExample\ISExample\obj\Debug\net10.0\compressed\iact0xik6q-{0}-wsezl0heh6-wsezl0heh6.gz
+D:\Yogesh\SEO\Yogihosting\new\IS\IdentityServer-with-ASP.NET-Core-Identity-and-MongoDB-as-Database-main\ISExample\ISExample\obj\Debug\net10.0\compressed\p8gk5sapy8-{0}-o4kw7cc6tf-o4kw7cc6tf.gz
+D:\Yogesh\SEO\Yogihosting\new\IS\IdentityServer-with-ASP.NET-Core-Identity-and-MongoDB-as-Database-main\ISExample\ISExample\obj\Debug\net10.0\compressed\58xim77b7d-{0}-6ukhryfubh-6ukhryfubh.gz
+D:\Yogesh\SEO\Yogihosting\new\IS\IdentityServer-with-ASP.NET-Core-Identity-and-MongoDB-as-Database-main\ISExample\ISExample\obj\Debug\net10.0\compressed\figybvu63l-{0}-zwph15dxgs-zwph15dxgs.gz
+D:\Yogesh\SEO\Yogihosting\new\IS\IdentityServer-with-ASP.NET-Core-Identity-and-MongoDB-as-Database-main\ISExample\ISExample\obj\Debug\net10.0\compressed\pgj10rq4xa-{0}-u33ctipx7g-u33ctipx7g.gz
+D:\Yogesh\SEO\Yogihosting\new\IS\IdentityServer-with-ASP.NET-Core-Identity-and-MongoDB-as-Database-main\ISExample\ISExample\obj\Debug\net10.0\compressed\0yw6z6ehce-{0}-47otxtyo56-47otxtyo56.gz
+D:\Yogesh\SEO\Yogihosting\new\IS\IdentityServer-with-ASP.NET-Core-Identity-and-MongoDB-as-Database-main\ISExample\ISExample\obj\Debug\net10.0\compressed\kj24nqrfw9-{0}-4v8eqarkd7-4v8eqarkd7.gz
+D:\Yogesh\SEO\Yogihosting\new\IS\IdentityServer-with-ASP.NET-Core-Identity-and-MongoDB-as-Database-main\ISExample\ISExample\obj\Debug\net10.0\compressed\ukohybk639-{0}-l3n5xuwxn8-l3n5xuwxn8.gz
+D:\Yogesh\SEO\Yogihosting\new\IS\IdentityServer-with-ASP.NET-Core-Identity-and-MongoDB-as-Database-main\ISExample\ISExample\obj\Debug\net10.0\compressed\j3snafgn4o-{0}-gcjdx5jb8l-gcjdx5jb8l.gz
+D:\Yogesh\SEO\Yogihosting\new\IS\IdentityServer-with-ASP.NET-Core-Identity-and-MongoDB-as-Database-main\ISExample\ISExample\obj\Debug\net10.0\compressed\htp4b9lwlr-{0}-35gxhxa0gh-35gxhxa0gh.gz
+D:\Yogesh\SEO\Yogihosting\new\IS\IdentityServer-with-ASP.NET-Core-Identity-and-MongoDB-as-Database-main\ISExample\ISExample\obj\Debug\net10.0\compressed\6f2c5kb20i-{0}-pzqfkb6aqo-pzqfkb6aqo.gz
+D:\Yogesh\SEO\Yogihosting\new\IS\IdentityServer-with-ASP.NET-Core-Identity-and-MongoDB-as-Database-main\ISExample\ISExample\obj\Debug\net10.0\compressed\da0pie9l2u-{0}-b7iojwaux1-b7iojwaux1.gz
+D:\Yogesh\SEO\Yogihosting\new\IS\IdentityServer-with-ASP.NET-Core-Identity-and-MongoDB-as-Database-main\ISExample\ISExample\obj\Debug\net10.0\compressed\r7y4n9qvrb-{0}-xzw0cte36n-xzw0cte36n.gz
+D:\Yogesh\SEO\Yogihosting\new\IS\IdentityServer-with-ASP.NET-Core-Identity-and-MongoDB-as-Database-main\ISExample\ISExample\obj\Debug\net10.0\compressed\nhv5emgu3w-{0}-fwhahm2icz-fwhahm2icz.gz
+D:\Yogesh\SEO\Yogihosting\new\IS\IdentityServer-with-ASP.NET-Core-Identity-and-MongoDB-as-Database-main\ISExample\ISExample\obj\Debug\net10.0\compressed\s1fzwgjt0a-{0}-dd6z7egasc-dd6z7egasc.gz
+D:\Yogesh\SEO\Yogihosting\new\IS\IdentityServer-with-ASP.NET-Core-Identity-and-MongoDB-as-Database-main\ISExample\ISExample\obj\Debug\net10.0\compressed\m93pav8jop-{0}-5pze98is44-5pze98is44.gz
+D:\Yogesh\SEO\Yogihosting\new\IS\IdentityServer-with-ASP.NET-Core-Identity-and-MongoDB-as-Database-main\ISExample\ISExample\obj\Debug\net10.0\compressed\9vx592hp81-{0}-jfsiqqwiad-jfsiqqwiad.gz
+D:\Yogesh\SEO\Yogihosting\new\IS\IdentityServer-with-ASP.NET-Core-Identity-and-MongoDB-as-Database-main\ISExample\ISExample\obj\Debug\net10.0\compressed\hu3bp9wci9-{0}-yerj5d8anq-yerj5d8anq.gz
+D:\Yogesh\SEO\Yogihosting\new\IS\IdentityServer-with-ASP.NET-Core-Identity-and-MongoDB-as-Database-main\ISExample\ISExample\obj\Debug\net10.0\compressed\297i0skb1y-{0}-yerj5d8anq-yerj5d8anq.gz
+D:\Yogesh\SEO\Yogihosting\new\IS\IdentityServer-with-ASP.NET-Core-Identity-and-MongoDB-as-Database-main\ISExample\ISExample\obj\Debug\net10.0\staticwebassets.build.json
+D:\Yogesh\SEO\Yogihosting\new\IS\IdentityServer-with-ASP.NET-Core-Identity-and-MongoDB-as-Database-main\ISExample\ISExample\obj\Debug\net10.0\staticwebassets.build.json.cache
+D:\Yogesh\SEO\Yogihosting\new\IS\IdentityServer-with-ASP.NET-Core-Identity-and-MongoDB-as-Database-main\ISExample\ISExample\obj\Debug\net10.0\staticwebassets.development.json
+D:\Yogesh\SEO\Yogihosting\new\IS\IdentityServer-with-ASP.NET-Core-Identity-and-MongoDB-as-Database-main\ISExample\ISExample\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+D:\Yogesh\SEO\Yogihosting\new\IS\IdentityServer-with-ASP.NET-Core-Identity-and-MongoDB-as-Database-main\ISExample\ISExample\obj\Debug\net10.0\swae.build.ex.cache
+D:\Yogesh\SEO\Yogihosting\new\IS\IdentityServer-with-ASP.NET-Core-Identity-and-MongoDB-as-Database-main\ISExample\ISExample\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+D:\Yogesh\SEO\Yogihosting\new\IS\IdentityServer-with-ASP.NET-Core-Identity-and-MongoDB-as-Database-main\ISExample\ISExample\obj\Debug\net10.0\ISExample.csproj.Up2Date
+D:\Yogesh\SEO\Yogihosting\new\IS\IdentityServer-with-ASP.NET-Core-Identity-and-MongoDB-as-Database-main\ISExample\ISExample\obj\Debug\net10.0\ISExample.dll
+D:\Yogesh\SEO\Yogihosting\new\IS\IdentityServer-with-ASP.NET-Core-Identity-and-MongoDB-as-Database-main\ISExample\ISExample\obj\Debug\net10.0\refint\ISExample.dll
+D:\Yogesh\SEO\Yogihosting\new\IS\IdentityServer-with-ASP.NET-Core-Identity-and-MongoDB-as-Database-main\ISExample\ISExample\obj\Debug\net10.0\ISExample.pdb
+D:\Yogesh\SEO\Yogihosting\new\IS\IdentityServer-with-ASP.NET-Core-Identity-and-MongoDB-as-Database-main\ISExample\ISExample\obj\Debug\net10.0\ISExample.genruntimeconfig.cache
+D:\Yogesh\SEO\Yogihosting\new\IS\IdentityServer-with-ASP.NET-Core-Identity-and-MongoDB-as-Database-main\ISExample\ISExample\obj\Debug\net10.0\ref\ISExample.dll
+D:\Yogesh\SEO\Yogihosting\new\IS\IdentityServer-with-ASP.NET-Core-Identity-and-MongoDB-as-Database-main\ISExample\ISExample\bin\Debug\net10.0\keys\is-signing-key-04D86B586710B500ECE63AF5618A7D5D.json
