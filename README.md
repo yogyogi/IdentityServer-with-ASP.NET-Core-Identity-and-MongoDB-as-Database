@@ -1,4 +1,4 @@
-# IdentityServer with ASP.NET Core Identity and MongoDB as Database
+# Duende IdentityServer with ASP.NET Core Identity and MongoDB as Database
 In this repo we will implement Duende IdentityServer with ASP.NET Core Identity and MongoDB as Database. So, the MongoDB will be the Identity Database instead of SQL Server. I have explained all the setup steps <a href="https://www.yogihosting.com/identityserver-aspnet-core-identity-mongodb-database/" target="_blank">on my tutorial</a>. This tutorial contains the following topics.
 
 ## Topics
